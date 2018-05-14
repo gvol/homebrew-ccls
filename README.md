@@ -6,5 +6,5 @@ Homebrew formula to install [ccls](https://github.com/MaskRay/ccls).
 
 ```
 brew tap twlz0ne/homebrew-ccls
-brew install ccls
+brew install --HEAD ccls
 ```
